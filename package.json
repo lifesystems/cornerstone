@@ -1,0 +1,16 @@
+{
+  "name": "way.truth.life",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@types/meteor": "^1.4.12",
+    "babel-runtime": "^6.26.0",
+    "inuitcss": "^6.0.0-beta.5",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux-meteor": "^4.5.1"
+  }
+}
